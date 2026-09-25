@@ -1,14 +1,15 @@
 <div align="center">
 
+```
 ╔══════════════════════════════════════════════════╗
-║ ⚠ F I E L D D O S S I E R ║
-╟──────────────────────────────────────────────── ╢
-║ OPERATOR ......... SAHAN (0xSahan) ║
-║ ROLE .............. SOLO DEVELOPER ║
-║ ACTIVE OP ......... MADLAD: WASTELANDS ║
-║ STATUS ............ IN DEVELOPMENT ║
+║  ⚠  F I E L D   D O S S I E R                     ║
+╟────────────────────────────────────────────────  ╢
+║  OPERATOR ......... SAHAN  (0xSahan)              ║
+║  ROLE .............. SOLO DEVELOPER               ║
+║  ACTIVE OP ......... MADLAD: WASTELANDS           ║
+║  STATUS ............ IN DEVELOPMENT               ║
 ╚══════════════════════════════════════════════════╝
-
+```
 
 </div>
 
@@ -20,23 +21,20 @@
 
 ---
 
+```
 $ whoami
-
-solo developer // building in silence
+> solo developer // building in silence
 
 $ active_operation
-
-MADLAD: WASTELANDS — [status: in development]
-<A 2D open world roguelike car game in a post apocalyptic car world>
+> MADLAD: WASTELANDS — [status: in development]
+> <2D Post Apocalyptic Open world roguelike Car game >
 
 $ stack --list
-
-godot · gdscript · blender · aseprite · davinci resolve · lmms · python
+> godot · blender · aseprite · davinci resolve 
 
 $ contact --secure
-
-mprotikk@gmail.com
-
+> mprotikk@gmail.com
+```
 
 ---
 
